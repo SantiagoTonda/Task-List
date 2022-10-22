@@ -17,6 +17,12 @@
       "day": "Todos los días",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Comer mucho más gordo",
+      "day": "Agosto 6 a las 20hs",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
