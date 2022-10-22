@@ -5,6 +5,12 @@
       "text": "Terminar primer modulo de Angular",
       "day": "Agosto 5 a las 12:00",
       "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "comer gordo",
+      "day": "Agosto 5 a las 15:00",
+      "reminder": true
     }
   ]
 }
