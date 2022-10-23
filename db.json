@@ -1,28 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar primer modulo de Angular",
-      "day": "Agosto 5 a las 12:00",
-      "reminder": true
+      "text": "Ver curso JavaScript",
+      "day": "23 de Octubre, 15hs",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "comer gordo",
-      "day": "Agosto 5 a las 15:00",
-      "reminder": true
+      "text": "Ir al supermercado",
+      "day": "26 de Octubre, 18hs",
+      "reminder": true,
+      "id": 2
     },
     {
-      "text": "Matar gordo",
-      "day": "Todos los días",
+      "text": "Empezar curso portugués",
+      "day": "28 de Octubre, 18hs",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "Comer mucho más gordo",
-      "day": "Agosto 6 a las 20hs",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
