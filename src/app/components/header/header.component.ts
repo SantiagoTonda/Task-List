@@ -11,7 +11,7 @@ import { Router } from "@angular/router";
 export class HeaderComponent implements OnInit {
 
   title:string = 'My TaskList';
-  showAddTask: boolean = true;
+  showAddTask: boolean = false;
   subscription?: Subscription
 
   constructor(
